@@ -1,8 +1,13 @@
-# React + Vite
+# React Counter
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This a react counter project from ALTSchool.
 
-Currently, two official plugins are available:
+## The user should be able to
+- increment the count by 1 and by 10
+- decrement the count by 1 and by 10
+- get a random number
+- reset the counteer to zero
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+- [the live site] (https://64f8531fdc31c2605571f6f6--vocal-cendol-d08676.netlify.app/) 
+
