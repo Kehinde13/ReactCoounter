@@ -33,7 +33,7 @@ function App() {
   }
 
   const decrementCountBy10 = () => {
-    if (count > 0) {
+    if (count > 10) {
      setCount(current => current -= 10)
     }
   }
