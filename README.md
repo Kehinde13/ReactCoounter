@@ -9,5 +9,5 @@ This a react counter project from ALTSchool.
 - reset the counteer to zero
 
 
-- [the live site] (https://64f8531fdc31c2605571f6f6--vocal-cendol-d08676.netlify.app/) 
+- [the live site] (https://vocal-cendol-d08676.netlify.app) 
 
